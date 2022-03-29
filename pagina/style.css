@@ -1,0 +1,103 @@
+h1 {
+    color:aliceblue;
+    display: flex;
+    justify-content: center;
+}
+p {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:aliceblue;
+    display: flex;
+    justify-content: center;
+}
+a:hover {
+    opacity: 0.8;
+}
+.links-para-pag {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    opacity: 1;
+}
+.links-para-pag i {
+    list-style: none;
+}
+.links-para-pag a {
+    width: 20px;
+    padding: 20px;
+    display: flex;
+    color: white;
+    font-size: 3rem;
+}
+#minhafotojpeg {
+    border-radius: 20%;
+    display: inline;
+    justify-content: center;
+}
+.bloco-inicio {
+    display: inline-block;
+    text-align: center;
+    height: 50px;
+}
+.linkparaacesso {
+    text-decoration: none;
+    line-height: 20px;
+    margin: 30px auto;         
+    width: 100px;
+    border-radius: 4px;
+    padding: 20px;
+    border-radius: 4px;
+    background: rgb(135, 212, 206);
+    display: block;
+    color:black;
+    width: 300px;
+}
+.estudando {
+    color:green;
+    font-weight: 700;
+    text-decoration:underline;
+}
+.futevolei {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color:aliceblue;
+    font-size: 20px;
+    text-decoration:underline;
+}
+.futevolei:hover{
+    color:red;
+}
+.mundo {
+    color:white;
+}
+.mundo:hover {
+    color:red;
+}
+#fute {
+    color:red;
+}
+.familia-linda {
+    color:white;
+    font-weight: 700;
+    font-size: 30px;
+}
+.familia-linda:hover {
+    color:red;
+}
+.meunome {
+    font-size: 30px;
+}
+.esquerda {
+    float:left;
+    width: 35%;
+    margin-left: 60px;
+}
+#vinicius {
+    float: right;
+    margin-right: 60px;
+    width: 200px;
+}
+#brasil {
+    color:green;
+    font-weight: 700;
+}
